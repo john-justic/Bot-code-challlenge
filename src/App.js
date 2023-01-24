@@ -82,7 +82,7 @@ function addBot(id,name,image,phrase,health,armor,damage){
 
   return (
     <Router>
-    {/* <main>
+    <main>
       <h1 className="H1"> Bot Army Collection</h1>
       <YourBotArmy sortByHealth = {sortByHealth}/>
       <Switch>
@@ -98,4 +98,4 @@ function addBot(id,name,image,phrase,health,armor,damage){
   );
 }
 
-export default App; */}
+export default App;
