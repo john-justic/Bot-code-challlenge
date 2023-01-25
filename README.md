@@ -5,11 +5,13 @@ This project displays a list of robots a galactic web app that will allow the us
 ## project set up
 
 To get this project started u just need to visit the link below:
+
         bot-code-challlenge.vercel.app
 
 ## deployment link
 
-To view the project deployment visit the link below
+To view the project deployment visit the link below 
+
         bot-code-challlenge.vercel.app
 
 ## Author
