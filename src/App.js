@@ -83,7 +83,7 @@ function addBot(id,name,image,phrase,health,armor,damage){
   return (
     <Router>
     <main>
-      <h1 className="H1"> Bot Army Collection</h1>
+      <h1 className="H1"> John Justice Bot Army Collection</h1>
       <YourBotArmy sortByHealth = {sortByHealth}/>
       <Switch>
        <Route exact path="/">
